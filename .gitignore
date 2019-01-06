@@ -1,0 +1,7 @@
+*.pyc
+*.tsv
+*.zip
+*.csv
+/tmp/*
+/data_org/*
+/small_model/*
